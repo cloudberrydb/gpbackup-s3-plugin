@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repo has been archived. All files will be moved to [apache/cloudberry-backup](https://github.com/apache/cloudberry-backup).
+> Please submit feedback or improvements in the new repository.
+
+
 ## Using the S3 Storage Plugin with gpbackup and gprestore
 
 > This project is forked from [greenplum-db/gpbackup-s3-plugin-archive](https://github.com/greenplum-db/gpbackup-s3-plugin-archive/) and customized for Cloudberry Database.
